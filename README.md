@@ -1,7 +1,7 @@
 # 说明
  * 个人研究学习自用，主要是为了自己方便
  * 合集加的最后结尾大佬们脚本,没改互助码，懂得可以自己对源码，结尾已经放了链接
- * 看到AV脚本群里 Windstill说青蛙大佬也加入了，说我恰饭，那个贡献者是原来青蛙库改的不是有意的，仓库以后随缘
+ * 看到AV脚本群里 Windstill大佬说青蛙大佬也加入了，说我恰饭，那个贡献者是原来青蛙库改的不是有意的
  * 想用谁的合集都可以，结尾有其他大佬们的合集或者看Oreomeow大佬整理的那些
 ## 青龙拉取链接
 ``` 
@@ -278,5 +278,3 @@ ql repo https://github.com/panghu999/panghu.git "jd_"
 *  [@AlterGu](https://github.com/AlterGu/qinglong_note)
 *  [@Mashiro2000](https://github.com/Mashiro2000/HeyTap)
 *  [@Aaron-lv](https://github.com/Aaron-lv/sync)
-
-![image](https://user-images.githubusercontent.com/59304891/136778285-243e84f8-1984-451c-8db1-2eff3309a73e.jpg)
